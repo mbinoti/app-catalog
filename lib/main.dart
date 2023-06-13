@@ -78,12 +78,6 @@ class CatalogPage extends StatefulWidget {
 
 class _CatalogPageState extends State<CatalogPage> {
   final cart = ValueNotifier<List<CatalogItem>>([]);
-  // final catalogItems = [
-  //   CatalogItem(name: 'Item 1', color: 'Azul', value: 10),
-  //   CatalogItem(name: 'Item 2', color: 'Vermelho', value: 20),
-  //   CatalogItem(name: 'Item 3', color: 'Verde', value: 30),
-  //   // adicione mais itens conforme necessário
-  // ];
 
   List<CatalogItem> catalogItems = List<CatalogItem>.generate(
     15,
@@ -196,20 +190,6 @@ class _CatalogPageState extends State<CatalogPage> {
         ),
       ),
     );
-  }
-}
-
-Color colorFromString(String colorName) {
-  switch (colorName) {
-    case 'Azul':
-      return Colors.blue;
-    case 'Vermelho':
-      return Colors.red;
-    case 'Verde':
-      return Colors.green;
-    // adicione mais cores conforme necessário
-    default:
-      return Colors.black; // cor padrão caso o nome da cor não seja reconhecido
   }
 }
 
