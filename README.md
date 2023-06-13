@@ -1,16 +1,26 @@
-# appcatalog
 
-A new Flutter project.
+## Introduction
 
-## Getting Started
+View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
 
-This project is a starting point for a Flutter application.
+**Available for both iOS and Android.**
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/6609513/245206812-4dbaf28e-19ad-4a47-acc9-29a053b758d7.jpg" width="350">
+  <img src="https://user-images.githubusercontent.com/6609513/245207382-faa2891e-64ef-4b12-b470-72106d913235.jpg" width="350">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+A few of the things you can do with GitPoint:
+
+* View user activity feed
+* Communicate on your issue and pull request conversations
+* Close or lock issues
+* Apply labels and assignees
+* Review and merge pull requests
+* Create new issues
+* Star, watch and fork repositories
+* Control your unread and participating notifications
+* Easily search for any user or repository
