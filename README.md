@@ -1,4 +1,3 @@
-
 ## app flutter alterado para gerenciamento de estado com ValueListenableBuilder e ValueNotifier.
 
 <p align="center">
