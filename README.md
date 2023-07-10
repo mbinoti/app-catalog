@@ -1,7 +1,5 @@
 
-## Introdução
-
-App catalog de documentação do flutter alterado para gerenciamento de estado com ValueListenableBuilder e ValueNotifier.
+## app flutter alterado para gerenciamento de estado com ValueListenableBuilder e ValueNotifier.
 
 ** Disponível para para iOS e Android.**
 
