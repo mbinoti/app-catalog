@@ -1,4 +1,4 @@
-## app flutter alterado para gerenciamento de estado com ValueListenableBuilder e ValueNotifier.
+## app catalog
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/6609513/245206812-4dbaf28e-19ad-4a47-acc9-29a053b758d7.jpg" width="350">
@@ -16,4 +16,6 @@ funcionalidades originais do app mantidas
 * Icones de carrinho de compras com contador de itens.
 * Icone desabilitado quando iten ja adicionado ao carrinho.
 * Botão de adicionar ao carrinho.
+* projeto da documentação do flutter. alterado para gerenciamento de estado nativo.
+
 
